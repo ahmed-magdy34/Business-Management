@@ -1,0 +1,1 @@
+import{j as r,B as e,T as t,a}from"./index-CnBwjURg.js";const n=()=>r.jsxs(e,{children:[r.jsx(t,{variant:"h5",gutterBottom:!0,children:"Trainer Information"}),r.jsx(a,{id:"trainer-code",label:"Trainer Code",variant:"outlined",fullWidth:!0,margin:"normal"}),r.jsx(a,{id:"trainer-name",label:"Trainer Name",variant:"outlined",fullWidth:!0,margin:"normal"})]});export{n as default};
